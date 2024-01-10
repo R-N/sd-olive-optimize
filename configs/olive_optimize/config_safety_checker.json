@@ -106,6 +106,6 @@
     "cache_dir": "cache",
     "output_name": "safety_checker",
     "output_dir": "footprints",
-    "execution_providers": ["DmlExecutionProvider"]
+    "execution_providers": ["CUDAExecutionProvider"]
   }
 }
