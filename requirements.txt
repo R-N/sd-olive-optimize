@@ -1,0 +1,10 @@
+diffusers
+onnx
+optimum
+omegaconf
+#olive-ai
+#onnxruntime
+olive-ai[gpu]
+onnxruntime-gpu
+#olive-ai[directml]
+#onnxruntime-directml
