@@ -113,6 +113,6 @@
     "cache_dir": "cache",
     "output_name": "unet",
     "output_dir": "footprints",
-    "execution_providers": ["CUDAExecutionProvider"]
+    "execution_providers": ["DmlExecutionProvider"]
   }
 }

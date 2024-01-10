@@ -100,6 +100,6 @@
     "cache_dir": "cache",
     "output_name": "vae_decoder",
     "output_dir": "footprints",
-    "execution_providers": ["CUDAExecutionProvider"]
+    "execution_providers": ["DmlExecutionProvider"]
   }
 }
