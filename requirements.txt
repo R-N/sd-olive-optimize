@@ -1,3 +1,16 @@
+torch
+torchvision==0.14.1
+torch-directml
+accelerate==0.21.0
+open-clip-torch==2.20.0
+fastapi==0.94.0
+numpy==1.23.5
+pytorch_lightning==1.9.4
+torchdiffeq==0.2.3
+torchsde==0.2.5
+transformers==4.32.1
+timm==0.9.2
+
 diffusers
 onnx
 optimum
